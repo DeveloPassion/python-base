@@ -5,6 +5,9 @@ __pycache__
 # Pytest
 .pytest_cache
 
+# mypy
+.mypy_cache
+
 # Coverage
 .coverage
 

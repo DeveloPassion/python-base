@@ -63,6 +63,7 @@ To execute those manually:
 * Run black: `pre-commit run black`
 * Run Flake8: `pre-commit run flake8`
 * Run for all files: `pre-commit run --all-files`
+* Run mypy: `pre-commit run mypy`
 
 ## Environment variables
 
