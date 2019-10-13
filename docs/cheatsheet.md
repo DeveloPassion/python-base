@@ -7,10 +7,9 @@ Log into the container using:
 
 ```
 chmod +x ./util_connect.sh
-./util_connec```
+./util_connect.sh
 chmod +x ./util_start.sh
 ./util_start.sh
-```t.sh
 ```
 
 ## Checking the logs
